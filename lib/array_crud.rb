@@ -3,11 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-cars = ["Hyundai", "Lexus" "Honda", "Mazda", "Kia"]
+cars = ["Hyundai", "Lexus", "Mazda", "Kia"]
 end
 
 def add_element_to_end_of_array(array, element)
-
+shows = ["The Walking Dead", "The Office", "Family Guy"]
+shows << "Atlanta"
 end
 
 def add_element_to_start_of_array(array, element)
